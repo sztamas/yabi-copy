@@ -1,13 +1,13 @@
 # yabi-copy
 
-A Clojure library designed to ... well, that part is up to you.
+Playing around with ideas of how to implement the FS operations in Yabi if it was in Clojure.
 
 ## Usage
 
-FIXME
+Read src/yabi_copy/core.clj, discuss.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Tamas Szabo
 
 Distributed under the Eclipse Public License, the same as Clojure.
